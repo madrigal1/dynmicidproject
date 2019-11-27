@@ -1,1 +1,1 @@
-UI experimentation for user proiles
+UI experimentation for user profiiles
